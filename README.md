@@ -1,6 +1,4 @@
 # WlanAusschaltenFreetz
-# meinhotspot.com
-Automatisches Login in die WLan Netzwerke von meinhotspot.com mit Linux bzw. der Fritzbox.
 
 ## Funktionsweise des Scripts ohne Ping:
 Einmal gestartet läuft es, bis es gestoppt wird, in einer Endlosschleife. 
